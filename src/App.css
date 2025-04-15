@@ -4,3 +4,25 @@ td,
 th {
   padding: 8px;
 }
+
+.button-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-family: sans-serif;
+}
+
+.button-table th, .button-table td {
+  padding: 12px 15px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+.button-table th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+.button-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
