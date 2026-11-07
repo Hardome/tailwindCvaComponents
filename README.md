@@ -1,1 +1,10 @@
-# Components based on Tailwind + CVA 
+﻿# tailwindCvaComponents
+
+Эксперимент с вариантами React-компонентов на Tailwind CSS и class-variance-authority.
+
+## Статус
+
+Архивный учебный проект. Сохранён как часть истории обучения; дальнейшая поддержка и обновление зависимостей не планируются. Код не предназначен для использования в production без отдельной проверки.
+
+Актуальные работы: [профиль Hardome](https://github.com/Hardome).
+
